@@ -287,7 +287,7 @@ function btnInstall(){
 
 
 //* Generar Select list de apps
-for (let i = 1; i < 51; i++) {
+for (let i = 1; i <= 50; i++) {
     document.getElementById('list-app').innerHTML += 
     `<option value="/img/app-icons/${i}.webp">App${i}</option> `    
 }
