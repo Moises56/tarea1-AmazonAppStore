@@ -1,0 +1,75 @@
+body {
+    padding-top: 0rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+
+.nav-style{
+    border: 1px solid #691515;
+    background-color: black;
+}
+
+.img1{
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.detalle1{
+    margin-left: -10%;
+}
+.img2{
+    width: 50%;
+    border-radius: 2rem;
+}
+
+.detalle2{
+    margin-left: -30%;
+}
+
+.text-detalle1{
+    margin-bottom: 1%;
+}
+
+.calif-detalle1{
+    transform: translateY(15px);
+}
+
+.calif-detalle1 .califV-detalle{
+    color: #17a9a9 ;
+}
+
+.calif-detalle1 .califR-detalle{
+    color: rgb(189, 10, 10);
+}
+
+.fa-trash-alt{
+    margin-left: 10%;
+}
+
+.btn-delete{
+    color: rgb(189, 10, 10);
+    margin-left: 85%;
+    font-size: 120%;
+    cursor: pointer;
+}
+
+.btn-delete:hover{
+    color: rgb(64, 33, 202);
+}
+
+.ico-star{
+    color:  #FFB718;;
+
+}
+
+.ico-star:hover{
+    color: #17a9a9;
+}
+
+.card-color:hover{
+    background-color: #FFB718;
+
+}
